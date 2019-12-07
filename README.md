@@ -29,6 +29,8 @@ param name | type | default
 value (required) | double | -
 options | object | -
 
+available currency are : usd, idr,eur, jpy, inr, aed, cny, myr, krw, thb,rub
+
 ####options
 name | type | default
 ------------ | ------------ | ------------
