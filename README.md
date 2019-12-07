@@ -12,7 +12,7 @@ import CurrencyFormat from 'number-currency-formatter'
 
 CurrencyFormat.global(99999, 'usd')
 
-CurrencyFormat.custom(99999,{symbol})
+CurrencyFormat.custom(99999,{symbol:'$',separator:',',decimalPlaces:2,decimalPoint:'.',symbolLocation:'front'})
 
 ````
 
