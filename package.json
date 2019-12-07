@@ -1,0 +1,11 @@
+{
+  "name": "number-currency-formatter",
+  "version": "1.0.0",
+  "description": "lightweight and easy to use package for currency format conversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fachri ahmad zulkarnain",
+  "license": "ISC"
+}
