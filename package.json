@@ -1,6 +1,6 @@
 {
   "name": "number-currency-formatter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "lightweight and easy to use package for currency and custom format conversion",
   "main": "index.js",
   "scripts": {

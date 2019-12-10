@@ -17,13 +17,13 @@ CurrencyFormat.custom(99999,{symbol:'$',separator:',',decimalPlaces:2,decimalPoi
 ````
 
 ## Parameters
-###global
+### global
 param name | type | default
 ------------ | ------------ | ------------
 value (required) | double | -
 currency | string | usd
 
-###custom
+### custom
 param name | type | default
 ------------ | ------------ | ------------
 value (required) | double | -
@@ -31,7 +31,7 @@ options | object | -
 
 available currency are : usd, idr,eur, jpy, inr, aed, cny, myr, krw, thb,rub
 
-####options
+#### options
 name | type | default
 ------------ | ------------ | ------------
 symbol | string | none
